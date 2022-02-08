@@ -1,6 +1,6 @@
 # TensorFlow/Keras cheat sheet
 
-![preview.jpg](./data/img/preview.jpg)
+![preview.jpg](./data/preview.jpg)
 
 This repository provides cheat sheets for building neural networks using TensorFlow/Keras.
 
