@@ -4,7 +4,9 @@
 
 This repository provides cheat sheets for building neural networks using TensorFlow/Keras.
 
-See [article]() on Medium.
+## Medium article
+
+See the article [on Medium](https://medium.com/@andimid/tensorflow-keras-cheat-sheet-5ec99d9a1ccf).
 
 ## Contents
 
