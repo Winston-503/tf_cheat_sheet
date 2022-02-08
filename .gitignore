@@ -3,3 +3,4 @@ __pycache__
 
 data/*
 !data/README.md
+!data/preview.jpg
