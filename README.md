@@ -6,22 +6,22 @@ This repository provides cheat sheets for building neural networks using TensorF
 
 ## Medium article
 
-See the article [on Medium](https://medium.com/@andimid/tensorflow-keras-cheat-sheet-5ec99d9a1ccf).
+See the article on [Towards Data Science](https://towardsdatascience.com/tensorflow-keras-cheat-sheet-5ec99d9a1ccf).
 
 ## Contents
 
 The cheat sheet provides the data about following topics:
 - Typical Neural Network Architectures with Sequential API;
 - More Complex Neural Network Architectures with Functional API;
-- Compile the model;
-- Train the model;
-- Explore learning curves;
-- Evaluate the model;
-- Save and load the model.
+- Compile the model;
+- Train the model;
+- Explore learning curves;
+- Evaluate the model;
+- Save and load the model.
 
 And also about:
 - Using ImageDataGenerator;
-- Tokenizing and padding sentences for NLP tasks.
+- Tokenizing and padding sentences for NLP tasks.
 
 ## Repository Content
 
