@@ -1,4 +1,4 @@
-# TensorFlow/Keras cheat sheet
+# TensorFlow/Keras cheat sheet 
 
 ![preview.jpg](./data/preview.jpg)
 
